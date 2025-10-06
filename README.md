@@ -4,3 +4,6 @@
 ```bash
 git clone <...>
 cd lab2
+### Відкрийте файл `form.html` у браузері:
+- Подвійний клік на файлі  
+- Або через **Live Server** у VS Code
